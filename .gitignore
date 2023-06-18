@@ -1,0 +1,14 @@
+*
+
+!.gitignore
+!LICENSE
+
+!Cargo.toml
+!Cargo.lock
+!CMakeLists.txt
+!build.rs
+
+!include
+!include/**
+!src
+!src/**

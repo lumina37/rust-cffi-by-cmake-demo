@@ -1,0 +1,3 @@
+#pragma once
+
+#cmakedefine FOO_BUILD_SHARED_LIBS
