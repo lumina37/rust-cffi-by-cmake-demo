@@ -7,6 +7,7 @@
 !Cargo.lock
 !CMakeLists.txt
 !build.rs
+!.clang-format
 
 !include
 !include/**

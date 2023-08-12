@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.1)
 
-project(hello-rust LANGUAGES C)
+project(rust-cffi-by-cmake-demo LANGUAGES C)
 
 option(BUILD_SHARED_LIBS "Specifies the type of libraries (SHARED or STATIC) to build" OFF)
 
