@@ -1,6 +1,5 @@
 set(libfoo_INCLUDE_DIRS "${PROJECT_SOURCE_DIR}/include")
-set(libfoo_SRC_DIR "${PROJECT_SOURCE_DIR}/src/libfoo")
-set(libfoo_SRCS "${libfoo_SRC_DIR}/bar.c")
+set(libfoo_SRCS "libfoo/bar.c")
 
 if (BUILD_SHARED_LIBS)
     add_library(libfoo SHARED ${libfoo_SRCS})

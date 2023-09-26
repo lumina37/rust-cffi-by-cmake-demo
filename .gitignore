@@ -1,15 +1,5 @@
-*
+/.*
 
-!.gitignore
-!LICENSE
-
-!Cargo.toml
-!Cargo.lock
-!CMakeLists.txt
-!build.rs
-!.clang-format
-
-!include
-!include/**
-!src
-!src/**
+/build
+/cmake-build-*
+/target
