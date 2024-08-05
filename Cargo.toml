@@ -2,9 +2,6 @@
 name = "rust-cffi-by-cmake-demo"
 version = "0.1.0"
 edition = "2021"
-build = "build.rs"
-
-[dependencies]
 
 [build-dependencies]
 cmake = "0.1"
